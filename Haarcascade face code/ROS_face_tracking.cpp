@@ -33,7 +33,7 @@ int main(int argc, char** argv){
 
     cv::Mat img;
 
-    // Load cascate classifier placed in sulution folder
+    // Load cascate classifier placed in folder
      cv::CascadeClassifier detector;
      string cascadeName = "/home/phoenix/Desktop/data/haarcascades/haarcascade_frontalface_alt.xml";
      bool loaded = detector.load(cascadeName);
