@@ -9,5 +9,5 @@ Usage
 	input_file : Optional file to read, otherwise use camera
 
 The above shown execution method has not been tested. It is yet to be tested. Configure the zip in QT and build it. Once built 
-directly run it. Camera feed will be considered. This code has been picked from 
+directly run it. Camera feed will be considered. This code has been picked from
 https://bitbucket.org/kschluff/particle_tracker/downloads/ and the video link is https://www.youtube.com/watch?v=B4ianyQTnCE.
